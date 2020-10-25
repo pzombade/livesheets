@@ -90,7 +90,7 @@ There are Docker images available for installing Livesheets on Linux, macOS, Win
 
 Run the following command to execute the installer for Livesheets (replace the placeholders accordingly).
 
-* `<PATH>`: path to the installation directory, e.g., "~/streamsheets"
+* `<PATH>`: path to the installation directory, e.g., "~/livesheets"
 * `<VERSION>`: version to install, e.g., "2.0"
 * `<PLATFORM>`: target platform (one of `linux`, `macos`, `rpi`, `win`)
 
@@ -100,7 +100,7 @@ docker run -v <PATH>:/streamsheets cedalo/streamsheets-installer:<VERSION>-<PLAT
 
 Example
 ```
-docker run -v ~/streamsheets:/streamsheets cedalo/streamsheets-installer:2.0-linux
+docker run -v ~/livesheets:/streamsheets cedalo/streamsheets-installer:2.0-linux
 ```
 
 <!-- ### Running from source code
