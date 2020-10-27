@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to the Streamsheet® core project</h1>
+<h1 align="center">Welcome to the Livesheet® core project</h1>
 
 <div align="center">
 	<!-- <a href="https://travis-ci.com/cedalo/streamsheets"
@@ -6,10 +6,10 @@
 			alt="Travis Status"
 			src="https://travis-ci.com/cedalo/streamsheets.svg?token=4V9Pi9sH4H9riNSqvsLP&branch=master"
 	/></a> -->
-	<a href="https://github.com/cedalo/streamsheets">
+	<a href="https://github.com/Macrometacorp/livesheets">
 		<img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
 	</a>
-	<a href="https://github.com/cedalo/streamsheets/graphs/commit-activity">
+	<a href="https://github.com/Macrometacorp/livesheets/graphs/commit-activity">
 		<img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="_blank" />
 	</a>
 	<br/>
@@ -58,21 +58,21 @@
 
 <br/>
 
-The Streamsheet® core is an open-source tool for making your data immediately understandable and for creating IoT applications visually and interactively - without a single line of code.
+The Livesheet® core is an open-source tool for making your data immediately understandable and for creating IoT applications visually and interactively - without a single line of code.
 
 <p align="center">
   <img src="assets/title.png">
 </p>
 
-If you are new to Streamsheets, you should start with the [introduction guide](https://docs.cedalo.com/introduction.html) or with the following video:
+If you are new to Livesheets, you should start with the [introduction guide](https://docs.cedalo.com/introduction.html) or with the following video:
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=fNJcIVSneH4
 " target="_blank"><img src="assets/video.png" 
-alt="Streamsheets" /></a>
+alt="Livesheets" /></a>
 </p>
 
-Also, visit us on our [website](https://cedalo.com/) or check out the [Streamsheets forum](https://forum.streamsheets.com/).
+Also, visit us on our [website](https://cedalo.com/) or check out the [Livesheets forum](https://forum.streamsheets.com/).
 
 ## Table of contents
 
@@ -86,11 +86,11 @@ Also, visit us on our [website](https://cedalo.com/) or check out the [Streamshe
 
 ### Using Docker and Docker Compose
 
-There are Docker images available for installing Streamsheets on Linux, macOS, Windows and Raspberry Pi (tested with Raspbian). For each of those installations we provide a separate installer image, that facilitates the installation process.
+There are Docker images available for installing Livesheets on Linux, macOS, Windows and Raspberry Pi (tested with Raspbian). For each of those installations we provide a separate installer image, that facilitates the installation process.
 
-Run the following command to execute the installer for Streamsheets (replace the placeholders accordingly).
+Run the following command to execute the installer for Livesheets (replace the placeholders accordingly).
 
-* `<PATH>`: path to the installation directory, e.g., "~/streamsheets"
+* `<PATH>`: path to the installation directory, e.g., "~/livesheets"
 * `<VERSION>`: version to install, e.g., "2.0"
 * `<PLATFORM>`: target platform (one of `linux`, `macos`, `rpi`, `win`)
 
@@ -100,7 +100,7 @@ docker run -v <PATH>:/streamsheets cedalo/streamsheets-installer:<VERSION>-<PLAT
 
 Example
 ```
-docker run -v ~/streamsheets:/streamsheets cedalo/streamsheets-installer:2.0-linux
+docker run -v ~/livesheets:/streamsheets cedalo/streamsheets-installer:2.0-linux
 ```
 
 <!-- ### Running from source code
@@ -137,7 +137,7 @@ sh start.sh
 
 ## 📚 Documentation
 
-You can find the Streamsheet documentation on the [documentation website](https://docs.cedalo.com/).
+You can find the Livesheet documentation on the [documentation website](https://docs.cedalo.com/).
 
 Check out the Getting Started page for a quick overview.
 
@@ -154,9 +154,9 @@ The documentation is divided into several sections:
 
 ## 🙋 FAQ
 
-### Who maintains Streamsheets?
+### Who maintains Livesheets?
 
-Streamsheets are maintained by the [Cedalo AG](https://cedalo.com/). Please check out our [team page](https://cedalo.com/en/aboutus/)!
+Livesheets are maintained by the [Cedalo AG](https://cedalo.com/). Please check out our [team page](https://cedalo.com/en/aboutus/)!
 
 ### Looking for support?
 
@@ -166,16 +166,16 @@ For questions and support please join our [Forum](https://forum.streamsheets.com
 
 Check out our documentation website: [docs.cedalo.com](https://docs.cedalo.com/).
 
-### Want to contribute to Streamsheets?
+### Want to contribute to Livesheets?
 
 Check out our [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 
-- Check out the issues with the [good first issue](https://github.com/cedalo/streamsheets/labels/good%20first%20issue) and [help wanted](https://github.com/cedalo/streamsheets/labels/help%20wanted) label.
+- Check out the issues with the [good first issue](https://github.com/Macrometacorp/livesheets/labels/good%20first%20issue) and [help wanted](https://github.com/Macrometacorp/livesheets/labels/help%20wanted) label.
 - Also have a look at our [roadmap](notes/roadmap).
 
 ### How is the repository structured?
 
-The Streamsheets repository is organized as a mono repository that is composed of many npm packages.
+The Livesheets repository is organized as a mono repository that is composed of many npm packages.
 
 ## ⭐️ Show your support
 
@@ -185,4 +185,4 @@ Give a ⭐️ if this project helped you!
 
 Copyright (c) 2017-2019 Cedalo AG.
 
-Streamsheets is licensed under the Eclipse Public License - v 2.0. Please see the LICENSE file for details.
+Livesheets is licensed under the Eclipse Public License - v 2.0. Please see the LICENSE file for details.
