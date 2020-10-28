@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to the Livesheets core project</h1>
+<h1 align="center">Welcome to the Livesheets project</h1>
 
 <div align="center">
 	<!-- <a href="https://travis-ci.com/cedalo/streamsheets"
