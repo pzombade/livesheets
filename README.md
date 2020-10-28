@@ -152,37 +152,3 @@ The documentation is divided into several sections:
 * [Other](https://docs.cedalo.com/others.html)
 * [Glossary](https://docs.cedalo.com/glossary.html)
 
-## 🙋 FAQ
-
-### Who maintains Livesheets?
-
-Livesheets are maintained by the [Cedalo AG](https://cedalo.com/). Please check out our [team page](https://cedalo.com/en/aboutus/)!
-
-### Looking for support?
-
-For questions and support please join our [Forum](https://forum.streamsheets.com), ask a question on [Stack Overflow](https://stackoverflow.com/questions/tagged/streamsheets), or contact us on [Twitter](https://twitter.com/cedalo_com).
-
-### Where are the docs?
-
-Check out our documentation website: [docs.cedalo.com](https://docs.cedalo.com/).
-
-### Want to contribute to Livesheets?
-
-Check out our [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
-
-- Check out the issues with the [good first issue](https://github.com/Macrometacorp/livesheets/labels/good%20first%20issue) and [help wanted](https://github.com/Macrometacorp/livesheets/labels/help%20wanted) label.
-- Also have a look at our [roadmap](notes/roadmap).
-
-### How is the repository structured?
-
-The Livesheets repository is organized as a mono repository that is composed of many npm packages.
-
-## ⭐️ Show your support
-
-Give a ⭐️ if this project helped you!
-
-## 📃 License
-
-Copyright (c) 2017-2019 Cedalo AG.
-
-Livesheets is licensed under the Eclipse Public License - v 2.0. Please see the LICENSE file for details.
