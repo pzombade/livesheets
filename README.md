@@ -18,42 +18,7 @@
 	</a>
 	<img alt="Version" src="https://img.shields.io/badge/version-2.0-blue.svg?cacheSeconds=2592000" />
 	<img alt="Node.js version" src="https://img.shields.io/badge/node-%3E%3D%208.0.0-blue.svg" />
-	<br/>
-	<a href="https://forum.streamsheets.com">
-		<img
-			alt="Discourse: forum.streamsheets.com"
-			src="https://img.shields.io/discourse/https/forum.streamsheets.com/topics.svg?style=social&logo=discourse"
-			target="_blank"
-		/>
-	</a>
-	<a href="https://forum.streamsheets.com">
-		<img
-			alt="Discourse: forum.streamsheets.com"
-			src="https://img.shields.io/discourse/https/forum.streamsheets.com/users.svg?style=social&logo=discourse"
-			target="_blank"
-		/>
-	</a>
-	<a href="https://forum.streamsheets.com">
-		<img
-			alt="Discourse: forum.streamsheets.com"
-			src="https://img.shields.io/discourse/https/forum.streamsheets.com/posts.svg?style=social&logo=discourse"
-			target="_blank"
-		/>
-	</a>
-	<!-- <a href="https://forum.streamsheets.com">
-		<img
-			alt="Discourse: forum.streamsheets.com"
-			src="https://img.shields.io/discourse/https/forum.streamsheets.com/likes.svg?style=social&logo=discourse"
-			target="_blank"
-		/>
-	</a> -->
-	<a href="https://twitter.com/cedalo_com">
-		<img
-			alt="Twitter: cedalo_com"
-			src="https://img.shields.io/twitter/follow/cedalo_com.svg?style=social"
-			target="_blank"
-		/>
-	</a>
+    <br/>
 </div>
 
 <br/>
