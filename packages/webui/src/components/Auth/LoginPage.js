@@ -192,7 +192,6 @@ class LoginPage extends React.Component {
 						width: '100vw',
 						height: '100vh',
 						backgroundSize: '100% 100%',
-						backgroundImage: 'url(images/mainbg.jpg)',
 					}}
 				>
 					{token ? (
@@ -202,7 +201,7 @@ class LoginPage extends React.Component {
 							style={{
 								width: '100vw',
 								height: '100vh',
-								backgroundImage: 'url(images/loginbg.png)',
+								backgroundColor: 'cadetblue',
 							}}
 						>
 							<Card
